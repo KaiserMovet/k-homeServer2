@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+khS/polls/*
+khS/database.cfg
+.vscode/launch.json
+.vscode/settings.json
