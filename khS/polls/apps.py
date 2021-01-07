@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class InternetCheckConfig(AppConfig):
+class PollsConfig(AppConfig):
     name = 'polls'
